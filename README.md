@@ -52,7 +52,7 @@ I apply **machine learning, NLP and large language models** to transportation pl
 | Project | What it does | Area |
 |---|---|---|
 | [Evidence-Grounded LLM Trading Agent](https://github.com/syeda-tamzida/evidence-grounded-llm-trading-agent) | LoRA-tuned Qwen 2.5 agent that checks SEC filings and news before each trade | LLM agents · fine-tuning |
-| [BanReady: Snow-Ban Parking Assistant](https://github.com/Lamun365/BanReady) | Shows Worcester drivers where they can legally park during snow bans (WPI i3 Lab Demo Day) | Urban mobility app |
+| [BanReady: Snow-Ban Parking Assistant](https://github.com/syeda-tamzida/BanReady) | Shows Worcester drivers where they can legally park during snow bans (WPI i3 Lab Demo Day) | Urban mobility app |
 | [RL Traffic Signal Control](https://github.com/syeda-tamzida/Traffic-Signal-Control-Optimization-for-Heterogeneous-Traffic-Using-Reinforcement-Learning) | Compares MPLight, IDQN and fixed-time control under heterogeneous traffic | Reinforcement learning |
 | [Explainable ML for Trip Mode Choice](https://github.com/syeda-tamzida/Explainable-Machine-Learning-for-Understanding-Trip-Mode-Choice) | Interpretable models of travel mode choice from the 2022 NHTS | Interpretable ML · travel behavior |
 | [Household Access to Heavy Rail](https://github.com/syeda-tamzida/Explaining-Household-Access-to-Heavy-Rail-Services-Using-Interpretable-Machine-Learning) | Explains which households have access to heavy rail, using the 2022 NHTS | Interpretable ML · transit access |

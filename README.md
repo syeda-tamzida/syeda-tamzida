@@ -31,16 +31,17 @@ I work where **transportation research meets NLP and Large Language Models**: I 
 **ML & data:** Python · PyTorch · scikit-learn · pandas · interpretable ML · clustering (DBSCAN) · reinforcement learning
 **Transportation:** SUMO traffic simulation · ns-3 (V2V communication) · travel behavior and mode choice modeling
 
-### 📂 Other projects
+### 📂 Projects
 
 | Project | Area |
 |---|---|
+| [Evidence-Grounded LLM Trading Agent](https://github.com/syeda-tamzida/evidence-grounded-llm-trading-agent) | LLM agents · LoRA fine-tuning · tool calling |
 | [Traffic Signal Control with Reinforcement Learning](https://github.com/syeda-tamzida/Traffic-Signal-Control-Optimization-for-Heterogeneous-Traffic-Using-Reinforcement-Learning) | RL · traffic control |
 | [Explainable ML for Trip Mode Choice](https://github.com/syeda-tamzida/Explainable-Machine-Learning-for-Understanding-Trip-Mode-Choice) | Interpretable ML · travel behavior |
 | [Household Access to Heavy Rail (Interpretable ML)](https://github.com/syeda-tamzida/Explaining-Household-Access-to-Heavy-Rail-Services-Using-Interpretable-Machine-Learning) | Interpretable ML · transit access |
 | [Accident Blackspots in Melbourne (DBSCAN)](https://github.com/syeda-tamzida/Spatio-Temporal-Analysis-of-Accident-Blackspots-in-Melbourne-Australia-Using-DBSCAN-Clustering) | Spatio-temporal clustering · road safety |
 | [V2V Delay Prediction in CAVs (SUMO + ns-3)](https://github.com/syeda-tamzida/Optimizing-V2V-Communication-Delay-Prediction-in-CAV-Vehicles-through-SUMO-and-ns-3-Simulations) | Connected vehicles · simulation |
-| [Corrosion Assessment of RC with ML & Multimodal Data](https://github.com/syeda-tamzida/Thesis-) | ML · image features (undergrad thesis) |
+| [Undergraduate Thesis: Corrosion Assessment of Reinforced Concrete with ML & Multimodal Data](https://github.com/syeda-tamzida/Thesis-) | ML · image processing · infrastructure |
 
 ### 📄 Publications
 

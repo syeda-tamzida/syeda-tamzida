@@ -52,6 +52,7 @@ I apply **machine learning, NLP and large language models** to transportation pl
 | Project | What it does | Area |
 |---|---|---|
 | [Evidence-Grounded LLM Trading Agent](https://github.com/syeda-tamzida/evidence-grounded-llm-trading-agent) | LoRA-tuned Qwen 2.5 agent that checks SEC filings and news before each trade | LLM agents · fine-tuning |
+| [Gemma-3-1B: Prompting, LoRA/QLoRA & BM25 RAG](https://github.com/syeda-tamzida/gemma3-lora-qlora-rag) | Fine-tuned Gemma to answer from passages and abstain when the answer is absent; BM25 retrieval lifted QA accuracy from 0.7 to 80.7 EM | LLM fine-tuning · RAG |
 | [Concrete Defect Detection with YOLO26n](https://github.com/syeda-tamzida/concrete-defect-detection-yolo26) | Detects six types of concrete surface damage in photos (mAP@50 0.988); *Scientific Reports* 2026 | Computer vision · object detection |
 | [BanReady: Snow-Ban Parking Assistant](https://github.com/syeda-tamzida/BanReady) | Shows Worcester drivers where they can legally park during snow bans (WPI i3 Lab Demo Day) | Urban mobility app |
 | [Salary Disclosure & Job-Posting Engagement](https://github.com/syeda-tamzida/salary-disclosure-job-engagement) | Does disclosing salary on LinkedIn postings raise views and applications, and does it differ by career level? (DS 502 group project) | Regression · Ridge/Lasso · inference |
@@ -67,7 +68,7 @@ I apply **machine learning, NLP and large language models** to transportation pl
 
 ### 🧰 Skills
 
-- **NLP & LLMs:** text classification · LLM-based information extraction · NER · LoRA fine-tuning (Qwen 2.5) · Hugging Face Transformers / PEFT · tool-calling agents · BM25 retrieval
+- **NLP & LLMs:** text classification · LLM-based information extraction · NER · LoRA fine-tuning (Qwen 2.5) · Hugging Face Transformers / PEFT · tool-calling agents · retrieval-augmented generation (BM25) · QLoRA
 - **Machine learning:** PyTorch · scikit-learn · XGBoost · TensorFlow/Keras · SHAP · reinforcement learning (MPLight, IDQN)
 - **Computer vision:** OpenCV · Ultralytics YOLO
 - **Programming:** Python · R · Jupyter · Git/GitHub · LaTeX

@@ -32,7 +32,7 @@ I apply **machine learning, NLP and large language models** to transportation pl
 ### 📄 Publications
 
 **Journal articles**
-- **Akter, S. T.**, Lamun, S. S., Zisan, M. B., & Rahman, M. A. (2026). Concrete surface deterioration detection and classification using YOLO26n: An AI-driven approach. *Scientific Reports*. [[Paper]](https://doi.org/10.1038/s41598-026-68706-0)
+- **Akter, S. T.**, Lamun, S. S., Zisan, M. B., & Rahman, M. A. (2026). Concrete surface deterioration detection and classification using YOLO26n: An AI-driven approach. *Scientific Reports*. [[Paper]](https://doi.org/10.1038/s41598-026-68706-0) [[Code]](https://github.com/syeda-tamzida/concrete-defect-detection-yolo26)
 - Hassan, M., Kabir, M. E., **Akter, S. T.**, Shraban, S. S., Basaruddin, K. S., & Islam, M. A. (2025). Machine learning in travel mode choice studies: A systematic literature review of applications, methods, and challenges. *Results in Engineering*. [[Paper]](https://doi.org/10.1016/j.rineng.2025.108140)
 
 **Conference papers**
@@ -52,6 +52,7 @@ I apply **machine learning, NLP and large language models** to transportation pl
 | Project | What it does | Area |
 |---|---|---|
 | [Evidence-Grounded LLM Trading Agent](https://github.com/syeda-tamzida/evidence-grounded-llm-trading-agent) | LoRA-tuned Qwen 2.5 agent that checks SEC filings and news before each trade | LLM agents · fine-tuning |
+| [Concrete Defect Detection with YOLO26n](https://github.com/syeda-tamzida/concrete-defect-detection-yolo26) | Detects six types of concrete surface damage in photos (mAP@50 0.988); *Scientific Reports* 2026 | Computer vision · object detection |
 | [BanReady: Snow-Ban Parking Assistant](https://github.com/syeda-tamzida/BanReady) | Shows Worcester drivers where they can legally park during snow bans (WPI i3 Lab Demo Day) | Urban mobility app |
 | [Salary Disclosure & Job-Posting Engagement](https://github.com/syeda-tamzida/salary-disclosure-job-engagement) | Does disclosing salary on LinkedIn postings raise views and applications, and does it differ by career level? (DS 502 group project) | Regression · Ridge/Lasso · inference |
 | [RL Traffic Signal Control](https://github.com/syeda-tamzida/Traffic-Signal-Control-Optimization-for-Heterogeneous-Traffic-Using-Reinforcement-Learning) | Compares MPLight, IDQN and fixed-time control under heterogeneous traffic | Reinforcement learning |

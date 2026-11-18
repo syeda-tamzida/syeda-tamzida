@@ -10,8 +10,8 @@ I work where **transportation research meets NLP and Large Language Models**: I 
 ### 🔬 Current focus: NLP & LLMs for transportation
 
 - **Understanding transit rider feedback with NLP and LLMs** *(ongoing research, WPI)*
-  - Classifying public comments to transit agencies into a **hierarchical taxonomy** (10 parent request categories plus subtypes)
-  - **LLM-based information extraction**: pulling the request type and the **place it refers to** (stop, route, street) out of free-text comments
+  - Classifying public comments to transit agencies into a **hierarchical taxonomy**
+  - **LLM-based information extraction**: pulling the request type and the **place it refers to** out of free-text comments
   - Comparing **fine-tuned local models** with **GPT-style API models** for this task
   - **Cross-platform learning**: adding Reddit transit discussions to small agency datasets, and separating new kinds of requests from shifts between platforms
   - Goal: a domain-specific language model for bus transit agencies that works for comments from any city, not just one

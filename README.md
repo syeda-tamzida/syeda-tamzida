@@ -14,8 +14,10 @@ I apply **machine learning, NLP and large language models** to transportation pl
 - **LLM-based information extraction**: pulling the request type and the **place it refers to** out of free-text comments (text classification, NER)
 - Comparing **fine-tuned local models** with **GPT-style API models**, evaluated against manually annotated data
 
-**Distinguishing Semantic Novelty from Domain Shift in Transportation Feedback** · *CS 554 NLP, WPI · Fall 2026 – ongoing*
-- **Cross-platform learning**: adding Reddit transit discussions to small agency datasets, and separating new kinds of requests from shifts between platforms
+**[Open-World Transit Feedback from Reddit](https://github.com/syeda-tamzida/reddit-transit-feedback-nlp)** · *CS 554 NLP, WPI · Fall 2026 – ongoing*
+- **Multi-city data**: 41,907 transit-related Reddit comments from 12 cities, screened by a low-cost GPT relevance filter
+- **Evidence-grounded extraction**: each request is extracted with a verbatim quote, the place it applies to and that place's role (origin, destination, problem location...)
+- **Open-world categories**: concerns outside the fixed category list are kept, clustered and checked against the existing taxonomy to propose new categories
 - Goal: a domain-specific language model for bus transit agencies that works for comments from any city, not just one
 
 ### ⭐ Featured project
@@ -54,6 +56,7 @@ I apply **machine learning, NLP and large language models** to transportation pl
 |---|---|---|
 | [**mixed-traffic-sumo**: Open Mixed-Traffic Benchmark for SUMO](https://github.com/syeda-tamzida/mixed-traffic-sumo) | pip-installable real-world mixed-traffic scenarios for RL signal control; first scenario: a Chattogram intersection with 9 vehicle classes (rickshaws, CNGs, human haulers). Works with sumo-rl / Gymnasium / PettingZoo | Open-source tool · SUMO · RL |
 | [Evidence-Grounded LLM Trading Agent](https://github.com/syeda-tamzida/evidence-grounded-llm-trading-agent) | LoRA-tuned Qwen 2.5 agent that checks SEC filings and news before each trade | LLM agents · fine-tuning |
+| [Open-World Transit Feedback from Reddit](https://github.com/syeda-tamzida/reddit-transit-feedback-nlp) | Finds what riders ask for, and where, in 41,907 Reddit comments from 12 cities; flags concerns outside a fixed category list for new-category discovery | NLP · LLM extraction |
 | [Gemma-3-1B: Prompting, LoRA/QLoRA & BM25 RAG](https://github.com/syeda-tamzida/gemma3-lora-qlora-rag) | Fine-tuned Gemma to answer from passages and abstain when the answer is absent; BM25 retrieval lifted QA accuracy from 0.7 to 80.7 EM | LLM fine-tuning · RAG |
 | [Concrete Defect Detection with YOLO26n](https://github.com/syeda-tamzida/concrete-defect-detection-yolo26) | Detects six types of concrete surface damage in photos (mAP@50 0.988); *Scientific Reports* 2026 | Computer vision · object detection |
 | [Seismic Risk Assessment in Chattogram](https://github.com/syeda-tamzida/seismic-risk-chattogram-xai) | Building-level earthquake risk for 92,469 buildings using AHP scoring, Random Forest/XGBoost and SHAP | Explainable ML · disaster risk |

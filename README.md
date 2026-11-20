@@ -14,10 +14,8 @@ I apply **machine learning, NLP and large language models** to transportation pl
 - **LLM-based information extraction**: pulling the request type and the **place it refers to** out of free-text comments (text classification, NER)
 - Comparing **fine-tuned local models** with **GPT-style API models**, evaluated against manually annotated data
 
-**[Open-World Transit Feedback from Reddit](https://github.com/syeda-tamzida/reddit-transit-feedback-nlp)** · *CS 554 NLP, WPI · Fall 2026 – ongoing*
-- **Multi-city data**: 41,907 transit-related Reddit comments from 12 cities, screened by a low-cost GPT relevance filter
-- **Evidence-grounded extraction**: each request is extracted with a verbatim quote, the place it applies to and that place's role (origin, destination, problem location...)
-- **Open-world categories**: concerns outside the fixed category list are kept, clustered and checked against the existing taxonomy to propose new categories
+**Distinguishing Semantic Novelty from Domain Shift in Transportation Feedback** · *CS 554 NLP, WPI · Fall 2026 – ongoing*
+- **Cross-platform learning**: adding Reddit transit discussions to small agency datasets, and separating new kinds of requests from shifts between platforms
 - Goal: a domain-specific language model for bus transit agencies that works for comments from any city, not just one
 
 ### ⭐ Featured project
